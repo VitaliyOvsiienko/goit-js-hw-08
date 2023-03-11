@@ -15,9 +15,3 @@ function OnTextareaInput(event) {
     console.log(value);
 }
 
-
-function foo(event) {
-    const value = event.currentTarget.value;
-
-    console.log(value);
-}
