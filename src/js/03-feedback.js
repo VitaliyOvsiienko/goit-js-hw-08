@@ -14,3 +14,10 @@ function OnTextareaInput(event) {
 
     console.log(value);
 }
+
+
+function sdfdsfdsf(event) {
+    const value = event.currentTarget.value;
+
+    console.log(value);
+}
