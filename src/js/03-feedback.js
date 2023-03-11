@@ -16,7 +16,7 @@ function OnTextareaInput(event) {
 }
 
 
-function sdfdsfdsf(event) {
+function foo(event) {
     const value = event.currentTarget.value;
 
     console.log(value);
